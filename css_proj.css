@@ -1,0 +1,127 @@
+#img{
+	width: ;
+	height:  ;
+	
+}
+p{
+	text-align: ;
+	background-color:    ;
+	color:   ;
+	background-image:linear-gradient(green,blue);
+	
+}
+
+.button {
+  /*background-color: #4CAF50; /* Green */
+  background-color: #777777;
+  
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  
+  display: inline-block;
+  font-size: 20px;
+  border:5px solid ;
+  border-radius:8px;
+ /* background-clip:content-box;*/
+ 
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+}
+
+.button3:hover {
+  background-color: #f44336;
+  color: white;
+}
+h1 {
+        background-image:linear-gradient(blue,white,red);
+        background-position: left center;
+        background-repeat: no-repeat;
+        text-align: center;
+        /*font-size: 22\px;
+		background-clip:border-box;*/
+        font-weight: bold;
+        color: #5d5d5d;
+		
+    }
+
+h2,h3,h4,h5,h6{
+	text-align: center ;
+	/*text-decoration: underline  ;
+	text-shadow: 2px,2px ;
+	
+	background-color:#666666;*/
+	
+	background-image:url("pr.jpeg ");
+	font-family:Arial  ;
+	font-style:Italic   ;
+	color:#382839;
+}
+#logo{
+	icon:
+	;width:  ;
+	height:  ;
+	top:   ;
+	position:  ;
+}
+
+body{
+	margin:   ;
+	padding:   ;
+	border:   ;
+	background-image:linear-gradient(to bottom right,white,pink);
+	background-clip:border-box;
+	background-repeat:no-repeat;
+	background-position:
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  /*background: #1abc9c;*/
+  color: white;
+  font-size: 30px;
+ 
+  background-clip:border-box;
+}
+#headers{
+	width:50px ;
+	height: 50px ;
+	background-image:url('pr.jpeg');
+}
+	
+	
+	
+	
+	
+}
+.content {padding:20px;}
