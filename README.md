@@ -1,3 +1,3 @@
 #### Online Marketplace
-it is a HTML,CSS, Javascript and Python based application that would allow users, to buy and sell product on the same platform creating a vibrant online marketplace online.. This web application has a wide scope. It is aimed at everyone from students to professionals, who want to sell or buy product widely on internet.
+It is a HTML,CSS, Javascript and Python based application that would allow users, to buy and sell product on the same platform creating a vibrant online marketplace online.. This web application has a wide scope. It is aimed at everyone from students to professionals, who want to sell or buy product widely on internet.
 The application is develop using Apache HTTP Server, a free and open-source web server that delivers web content through the internet and provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
