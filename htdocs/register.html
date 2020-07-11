@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> BAO</title>
+<link rel="stylesheet" href="css_proj.css">
+<link rel="icon" type="image/jpeg" href="pr.jpeg">
+<h1>BAO</h1>
+</head>
+<body>
+	<form action="/cgi-bin/one_1.py" method="post">
+	Enter Username:
+		<input type="input" placeholder="username" name="usr"/><br><br>
+	Enter Customer Name:
+		<input type="input" placeholder="customer_name" name="cn"/><br><br>
+	Enter Address:
+		<input type="input" placeholder="address" name="adr"/><br><br>
+	Enter Phone Number:
+		<input type="input" placeholder="phone_number" name="phn"/><br><br>
+	Enter Email Id:
+		<input type="email" placeholder="email" name="em"/><br><br>
+	Enter Password:
+		<input type="password" placeholder="password" name="pwd"/><br><br>
+	Re-enter Password:
+		<input type="password" placeholder="confirm password" name="pwd2"/><br><br>
+	
+		<input type="Submit" id="sub" value="Register" onclick="res()"/> 
+	</form>
+	<a href="login.html" class="button--style-red"> login </a>
+	
+	<script type="javascript">
+	function res(){
+	alert("registered");
+	document.getElementById("sub").reset();
+	}	
+</body>
+</html>
